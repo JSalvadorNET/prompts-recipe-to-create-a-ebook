@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7221264566255521792/f" title="View PDF now"> 📕Clique aqui para ler (Linkedin)</a>
+<a href="https://www.linkedin.com/posts/julyana-salvador-3a68852b6_ebook-feito-por-ia-sobre-comandos-b%C3%A1sicos-activity-7221264566255521792-y4SD?utm_source=share&utm_medium=member_desktop" title="View PDF now"> 📕Clique aqui para ler (Linkedin)</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
