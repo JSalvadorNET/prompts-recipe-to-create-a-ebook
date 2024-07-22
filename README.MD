@@ -31,7 +31,7 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Photoshop](https://www.adobe.com/br/products/photoshop/landpa.html?sdid=KQPOM&mv=search&ef_id=CjwKCAjwhvi0BhA4EiwAX25uj3ZyDsv0ARW7_pGyVr28Jh9x688nitbwGQFMp6f5AGsX4EhjblLXjhoC13wQAvD_BwE:G:s&s_kwcid=AL!3085!3!534509111647!e!!g!!photoshop!188192502!10077842982&gad_source=1&gclid=CjwKCAjwhvi0BhA4EiwAX25uj3ZyDsv0ARW7_pGyVr28Jh9x688nitbwGQFMp6f5AGsX4EhjblLXjhoC13wQAvD_BwE)
 
 ## 🧠 Prompts
 
@@ -48,7 +48,12 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | The face of a threatening dragon made with lines of java script code, pixel art style --v 5.1 |
+| título | A hobbit sitting thoughtfully, pixel art style --v 5.1 |
+| título | A wizard with a staff on top of a magic circle, pixel art style --v 5.1 |
+| título | A dwarf holding a pickaxe in a mine, pixel art style --v 5.1 |
+| título | A medieval warrior holding a shield and a sword, pixel art style --v 5.1 |
+| título |A blond elf holding a sword, pixel art style --v 5.1 |
 
 ## ✨ Features
 
